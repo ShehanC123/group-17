@@ -22,8 +22,12 @@ def main():
     print(f"\nStudent Name: {name}")
     print(f"Average Marks: {average:.2f}")
     
-    if average >= 40:
-        print("Result: Pass")
+    if average >= 75:
+        print("Result: A pass")
+    elif average >= 60:
+        print("Result: B pass")
+    elif average >= 40:
+        print("Result: C pass")
     else:
         print("Result: Fail")
 
