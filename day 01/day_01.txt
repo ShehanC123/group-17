@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello World!
 
 day 01 txt change by feature26
+=======
+Hello World! Edited by65
+>>>>>>> fcca566de30f6489303c276f2f4a7b243af56cd2
